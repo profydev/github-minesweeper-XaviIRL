@@ -1,5 +1,5 @@
 {
-  "commands": []
-  "commands2": []
-  
+  "commands": [
+    "clear A8"
+  ]
 }
